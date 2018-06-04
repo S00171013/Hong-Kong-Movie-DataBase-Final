@@ -1,0 +1,92 @@
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.exe.config
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.exe
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.pdb
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.csprojResolveAssemblyReference.cache
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\App.g.cs
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_MarkupCompile.cache
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_MarkupCompile.lref
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\MainWindow.baml
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.g.resources
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong_Kong_Movie_DataBase.Properties.Resources.resources
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.csproj.GenerateResource.Cache
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.exe
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.pdb
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.exe.config
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.exe
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.pdb
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.exe
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.pdb
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\App.g.cs
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_MarkupCompile.cache
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_MarkupCompile.lref
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\MainWindow.baml
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.g.resources
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong_Kong_Movie_DataBase.Properties.Resources.resources
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.csproj.GenerateResource.Cache
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.dll
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.xml
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_Content.g.cs
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.dll
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.xml
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_Content.g.cs
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Watchlist.g.cs
+C:\Users\Jack\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Watchlist.baml
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Watchlist.g.cs
+C:\Users\s00171013\Source\Repos\Hong-Kong-Movie-DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Watchlist.baml
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.exe.config
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.exe
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.pdb
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.exe
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.pdb
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.dll
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.xml
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Watchlist.g.cs
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\App.g.cs
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_Content.g.cs
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_MarkupCompile.cache
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_MarkupCompile.lref
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\MainWindow.baml
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Watchlist.baml
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.g.resources
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong_Kong_Movie_DataBase.Properties.Resources.resources
+C:\Users\Jack\Downloads\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.csproj.GenerateResource.Cache
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.exe.config
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.exe
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.pdb
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.exe
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Hong Kong Movie DataBase.pdb
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.dll
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.xml
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\MainWindow.g.cs
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Watchlist.g.cs
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\App.g.cs
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_Content.g.cs
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_MarkupCompile.cache
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase_MarkupCompile.lref
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\MainWindow.baml
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Watchlist.baml
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.g.resources
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong_Kong_Movie_DataBase.Properties.Resources.resources
+C:\Users\Jack\Downloads\CA 3 S00171013\Hong Kong Movie DataBase\Hong Kong Movie DataBase\Hong Kong Movie DataBase\obj\Debug\Hong Kong Movie DataBase.csproj.GenerateResource.Cache
